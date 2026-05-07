@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi 👋, I'm Sourabh
 
-<!--
-**SourabhSaharan/SourabhSaharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Electronic and Computer Engineering  
+🏫 J.C. Bose University  
 
-Here are some ideas to get you started:
+💻 Passionate about:
+- Web Development
+- Machine Learning
+- Problem Solving
+- Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Major Projects
+
+### 🔹 Disease Prediction System
+A machine learning based web application that predicts diseases based on symptoms provided by users and gives recommendations.
+
+Tech Used:
+- React
+- Node.js
+- Express
+- Machine Learning
+- Python
+
+### 🔹 Dashboard Builder
+A customizable dashboard builder with interactive charts and analytics components.
+
+Tech Used:
+- React
+- JavaScript
+- Chart Libraries
+
+---
+
+## 🛠 Skills
+
+- C++
+- JavaScript
+- React
+- Node.js
+- Express.js
+- Python
+- SQL
+- Git & GitHub
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/SourabhSaharan
+- LinkedIn: https://linkedin.com/in/sourabh20saharan
